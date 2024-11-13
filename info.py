@@ -43,9 +43,9 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+FKfyIf5BcXs0Njg9') #Su
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/")
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/")
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/hawtodownloade/4")
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/hawtodownloade/4")
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/hawtodownloade/4")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "fc2e0e9d467575e658817e4e27118ec57c048e46")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'teraboxlinks.com')
